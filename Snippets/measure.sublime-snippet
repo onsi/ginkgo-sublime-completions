@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Measure("$1", func(b Benchmarker) {
+    $0
+})
+]]></content>
+    <tabTrigger>meas</tabTrigger>
+    <description>Ginkgo Measure</description>
+    <scope>source.go</scope>
+</snippet>

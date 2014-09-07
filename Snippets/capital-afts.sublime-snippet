@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+AfterSuite(func() {
+    $0
+})
+]]></content>
+    <tabTrigger>Afts</tabTrigger>
+    <description>Ginkgo AfterSuite</description>
+    <scope>source.go</scope>
+</snippet>

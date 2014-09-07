@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Describe("$1", func() {
+    $0
+})
+]]></content>
+    <tabTrigger>desc</tabTrigger>
+    <description>Ginkgo Describe</description>
+    <scope>source.go</scope>
+</snippet>

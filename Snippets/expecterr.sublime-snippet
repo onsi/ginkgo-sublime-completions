@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Expect(${1:err}).NotTo(HaveOccurred())
+]]></content>
+    <tabTrigger>exerr</tabTrigger>
+    <description>Gomega Error Expectation</description>
+    <scope>source.go</scope>
+</snippet>

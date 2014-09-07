@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+JustBeforeEach(func() {
+    $0
+})
+]]></content>
+    <tabTrigger>Jus</tabTrigger>
+    <description>Ginkgo JustBeforeEach</description>
+    <scope>source.go</scope>
+</snippet>

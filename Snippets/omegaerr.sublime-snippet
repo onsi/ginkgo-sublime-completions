@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Ω(${1:err}).ShouldNot(HaveOccurred())
+]]></content>
+    <tabTrigger>Ωerr</tabTrigger>
+    <description>Gomega Error Ω</description>
+    <scope>source.go</scope>
+</snippet>

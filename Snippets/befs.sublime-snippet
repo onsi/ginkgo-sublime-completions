@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BeforeSuite(func() {
+    $0
+})
+]]></content>
+    <tabTrigger>befs</tabTrigger>
+    <description>Ginkgo BeforeSuite</description>
+    <scope>source.go</scope>
+</snippet>

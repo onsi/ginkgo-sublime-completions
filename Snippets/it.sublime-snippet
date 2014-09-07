@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+It("$1", func() {
+    $0
+})
+]]></content>
+    <tabTrigger>it</tabTrigger>
+    <description>Ginkgo It</description>
+    <scope>source.go</scope>
+</snippet>

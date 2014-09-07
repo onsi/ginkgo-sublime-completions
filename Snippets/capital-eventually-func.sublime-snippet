@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Eventually(func() ${1:Interface{\}} {
+    return $2
+}).Should$3(${4:Equal}($5))
+]]></content>
+    <tabTrigger>Evf</tabTrigger>
+    <description>Gomega Eventually (with function)</description>
+    <scope>source.go</scope>
+</snippet>

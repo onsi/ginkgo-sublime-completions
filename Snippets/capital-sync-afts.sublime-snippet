@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+SynchronizedAfterSuite(func() {
+    ${0://runs on all nodes}
+}, func() {
+    ${1://runs on node 1}
+})
+]]></content>
+    <tabTrigger>Syncafts</tabTrigger>
+    <description>Ginkgo SynchronizedAfterSuite</description>
+    <scope>source.go</scope>
+</snippet>
