@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Expect(${1:Func()}).To(Succeed())
+]]></content>
+    <tabTrigger>exs</tabTrigger>
+    <description>Gomega Succeed Expectation</description>
+    <scope>source.go</scope>
+</snippet>

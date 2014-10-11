@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+By("$1")
+]]></content>
+    <tabTrigger>by</tabTrigger>
+    <description>Ginkgo By</description>
+    <scope>source.go</scope>
+</snippet>
