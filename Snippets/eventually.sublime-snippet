@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-Eventually(${1}).Should$3(${4:Equal}($5))
-]]></content>
-    <tabTrigger>ev</tabTrigger>
-    <description>Gomega Eventually</description>
-    <scope>source.go</scope>
-</snippet>

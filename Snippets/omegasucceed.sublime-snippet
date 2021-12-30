@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-Ω(${1:Func()}).Should(Succeed())
-]]></content>
-    <tabTrigger>Ωs</tabTrigger>
-    <description>Gomega Succeed Ω</description>
-    <scope>source.go</scope>
-</snippet>

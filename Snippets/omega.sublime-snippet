@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-Ω($1).Should$2(${3:Equal}($4))
-]]></content>
-    <tabTrigger>Ω</tabTrigger>
-    <description>Gomega Ω</description>
-    <scope>source.go</scope>
-</snippet>

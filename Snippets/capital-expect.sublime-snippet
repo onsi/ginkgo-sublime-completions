@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-Expect($1).$2To(${3:Equal}($4))
-]]></content>
-    <tabTrigger>Ex</tabTrigger>
-    <description>Gomega Expect</description>
-    <scope>source.go</scope>
-</snippet>
